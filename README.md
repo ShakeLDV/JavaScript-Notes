@@ -68,7 +68,7 @@ name.slice(0,4);
 Exercise 2
 ```
 var userMessage = prompt("What is your message?);
-var slicedMessage = userMessage.slice(0,139);
+var slicedMessage = userMessage.slice(0,140);
 
 console.log(slicedMessage)
 ```
