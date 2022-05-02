@@ -18,3 +18,7 @@ To store that inside a variable
 ```
 var yourName = prompt("What is your name?");
 ```
+Combining variables with string (I wish this had f strings)
+```
+alert("My name is" + myName + ", welcome to my github" + yourName + "!");
+```
