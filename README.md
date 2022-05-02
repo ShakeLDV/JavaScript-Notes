@@ -22,3 +22,7 @@ Combining variables with string (I wish this had f strings)
 ```
 alert("My name is" + myName + ", welcome to my github" + yourName + "!");
 ```
+Printing to the console is not print() in JavaScript. It is as follows
+```
+console.log("Hello peeps");
+```
