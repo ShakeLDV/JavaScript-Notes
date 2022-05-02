@@ -32,3 +32,9 @@ console.log("Hello peeps");
 "a" + "b" + "c"
 
 "Hello" + " " + "World!"
+
+var yourName = prompt("Input your name")
+
+console.log("Hello there!: " + yourName)
+
+```
