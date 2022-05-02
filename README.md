@@ -45,3 +45,11 @@ console.log("Hello there! " + yourName);
 var name = "Leighiam";
 name.length;
 ```
+Exercise
+```
+var userMessage = prompt("What is your message?);
+var lengthMessage = userMessage.length;
+var requiredLength = 140
+
+console.log("You have written" + lengthMessage + "characters, you have" + requiredLength - lengthMessage + "characters left.")
+
