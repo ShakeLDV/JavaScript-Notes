@@ -35,6 +35,6 @@ console.log("Hello peeps");
 
 var yourName = prompt("Input your name")
 
-console.log("Hello there!: " + yourName)
+console.log("Hello there! " + yourName)
 
 ```
