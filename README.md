@@ -45,11 +45,28 @@ console.log("Hello there! " + yourName);
 var name = "Leighiam";
 name.length;
 ```
-Exercise
+Exercise 1
 ```
 var userMessage = prompt("What is your message?);
 var lengthMessage = userMessage.length;
 var requiredLength = 140
 
 console.log("You have written" + lengthMessage + "characters, you have" + (requiredLength - lengthMessage) + "characters left.")
+```
+String Slicing
+```
+var name = "Leighiam";
+name.slice(0,1);
+//output is "L"
+if its added more.
+name.slice(0,4);
+//output is "Leigh"
+```
+
+Exercise 2
+```
+var userMessage = prompt("What is your message?);
+var slicedMessage = userMessage.slice(0,141);
+
+console.log(slicedMessage)
 ```
