@@ -26,3 +26,9 @@ Printing to the console is not print() in JavaScript. It is as follows
 ```
 console.log("Hello peeps");
 ```
+## Strings
+(I'm missing fstrings already)
+```
+"a" + "b" + "c"
+
+"Hello" + " " + "World!"
