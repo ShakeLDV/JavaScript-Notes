@@ -70,5 +70,10 @@ Exercise 2
 var userMessage = prompt("What is your message?);
 var slicedMessage = userMessage.slice(0,140);
 
-console.log(slicedMessage)
+console.log(slicedMessage);
+
+or
+
+var userMessage = prompt("What is your message?);
+console.log(userMessage.slice(0,140);
 ```
