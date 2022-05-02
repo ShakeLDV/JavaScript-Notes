@@ -29,12 +29,19 @@ console.log("Hello peeps");
 ## Strings
 (I'm missing fstrings already)
 ```
-"a" + "b" + "c"
+"a" + "b" + "c";
 
-"Hello" + " " + "World!"
+"Hello" + " " + "World!";
 
-var yourName = prompt("Input your name")
+var yourName = prompt("Input your name");
 
-console.log("Hello there! " + yourName)
+console.log("Hello there! " + yourName);
 
+```
+
+### String lengths
+
+```
+var name = "Leighiam";
+name.length;
 ```
