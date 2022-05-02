@@ -58,7 +58,9 @@ String Slicing
 var name = "Leighiam";
 name.slice(0,1);
 //output is "L"
+
 if its added more.
+
 name.slice(0,4);
 //output is "Leigh"
 ```
