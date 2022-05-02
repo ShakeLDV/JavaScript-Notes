@@ -101,3 +101,7 @@ or
 var x = 5;   | var x = 5;
 x ++;        | x --;
 ```
+Adding two variable 
+```
+x += y
+```
