@@ -133,8 +133,8 @@ Exercise: Love Calculator
 ```
 prompt("What is your name?");
 prompt("What is your loves name?");
-var n = Math.random();
-n = n * 100;
+var n = Math.random() * 100;
 n = Math.floor(n) + 1;
 console.log("You two match are a match of this much: " + n);
 ```
+## Conditionals
