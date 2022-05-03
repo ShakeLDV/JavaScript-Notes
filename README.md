@@ -105,3 +105,11 @@ Adding two variable
 ```
 x += y
 ```
+
+## Functions
+Making a function
+```
+function getmilk(){
+  Whatever code is inside the function
+  }
+```
