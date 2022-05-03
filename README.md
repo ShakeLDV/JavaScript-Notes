@@ -117,3 +117,12 @@ To call the function
 ```
 getMilk();
 ```
+Adding an input to the function
+```
+function getMilk(bottles){
+  var money = 20
+  var cost = 1.5
+  Whatever code is in the function + 
+  var change = Bottles * cost
+}
+getMilk(5)
