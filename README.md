@@ -185,5 +185,11 @@ if (n <= 30){
 ## Arrays
 Example Array
 ```
-var eggs = [blue egg, white egg, yellow egg, red egg]
+var eggs = [blue egg, white egg, yellow egg, red egg];
+
+To get something from the array
+var egg = eggs[0];
+
+To count how much is inside the array
+eggs.length;
 ```
