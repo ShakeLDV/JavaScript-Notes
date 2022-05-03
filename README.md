@@ -126,3 +126,15 @@ function getMilk(bottles){
   var change = Math.floor(Bottles * cost)
 }
 getMilk(5)
+
+## Random Function
+
+Exercise
+```
+prompt("What is your name?")
+prompt("What is your loves name?")
+var n = Math.random();
+n = n * 100
+n = Math.floor(n) + 1
+console.log("You two match are a match of this much: " + n)
+```
