@@ -138,3 +138,16 @@ n = Math.floor(n) + 1;
 console.log("You two match are a match of this much: " + n);
 ```
 ## Conditionals
+
+Exercise: Love Calculator but with Conditionals
+```
+prompt("What is your name?");
+prompt("What is your loves name?");
+var n = Math.random() * 100;
+n = Math.floor(n) + 1;
+if (n === 100){
+    alert("Your love score is " + n + "%" + " You love each other like Kanye loves Kanye.");
+}else {console.log("You two match are a match of this much: " + n + "%");
+}
+
+```
