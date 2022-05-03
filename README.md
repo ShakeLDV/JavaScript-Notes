@@ -182,3 +182,8 @@ if (n <= 30){
 } else {console.log("You two match are a match of this much: " + n + "%");
 }
 ```
+## Arrays
+Example Array
+```
+var eggs = [blue egg, white egg, yellow egg, red egg]
+```
