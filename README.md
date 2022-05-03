@@ -151,3 +151,12 @@ if (n === 100){
 }
 
 ```
+Comparators and Equality
+```
+=== Is equal to
+!== Is not equal to
+> Is greater than
+< Is lesser than
+>= Is greater or equal to
+<= Is lesser or equal to
+```
