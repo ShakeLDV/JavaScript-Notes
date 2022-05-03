@@ -109,7 +109,11 @@ x += y
 ## Functions
 Making a function
 ```
-function getmilk(){
+function getMilk(){
   Whatever code is inside the function
   }
+```
+To call the function
+```
+getMilk();
 ```
