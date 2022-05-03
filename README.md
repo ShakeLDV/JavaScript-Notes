@@ -160,3 +160,23 @@ Comparators and Equality
 >= Is greater or equal to
 <= Is lesser or equal to
 ```
+Combining Comparators
+```
+&& AND
+|| OR
+! NOT
+```
+Exercise: Love Calculator but with conditional comparators (much different than Pythons elif)
+if (n === 100){
+    alert("Your love score is " + n + "%" + " You love each other like Kanye loves Kanye.");
+}
+if (n > 70){
+  alert("Your love score is " + n + "%" + "You love each other like Kanye love Kim);
+}
+if (n > 30 && n <= 70){
+  alert("Your love score is " + n + "%");
+}
+if (n <= 30){
+  alert("Your love score is " + n + "%" + "You go together like oul and water.");
+} else {console.log("You two match are a match of this much: " + n + "%");
+}
