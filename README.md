@@ -192,4 +192,25 @@ var egg = eggs[0];
 
 To count how much is inside the array
 eggs.length;
+
+To check to see if something is inside of an array
+eggs.includes(yellow egg)
+//output True (boolean)
 ```
+
+## Loops
+
+### While Loop
+```
+var i = 1;
+
+while (i<2) {
+  console.log(i);
+  i++;
+}
+```
+
+### For Loop
+for (var i = 0; i<2; i++){
+  console.log(i);
+}
