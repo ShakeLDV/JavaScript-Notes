@@ -126,7 +126,7 @@ function getMilk(bottles){
   var change = Math.floor(Bottles * cost)
 }
 getMilk(5)
-
+```
 ## Random Function
 
 Exercise
